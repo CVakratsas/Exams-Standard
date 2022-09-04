@@ -19,7 +19,7 @@ $tablename = "ics21088";
 
 // define variables and set to empty values
 $nameErr = $emailErr = "";
-$P_name = $email = ""; 
+$t_name = $email = ""; 
 $flag = true;
 
 // Connect to database
